@@ -1,5 +1,5 @@
 ### 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=tylerwolf35&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=tylerwolf35&show_icons=true&theme=dark">
 
 ### Hi there 👋
 I'm a high school sophomore interested in machine learning and computer science in general.
