@@ -5,5 +5,5 @@
 I'm a high school student interested in machine learning, data science, and cybersecurity.
 <a href="https://tylerwolf35.github.io/" target="_blank">
   
-  https://twolf.io
+  twolf.io
 </a>
