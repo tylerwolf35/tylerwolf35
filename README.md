@@ -2,7 +2,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=tylerwolf35&show_icons=true&theme=dark">
 
 ### Hi there 👋
-I'm a high school student interested in computational linguistics, programming languages, operating systems, sociology, politics, philosophy, machine learning, and data science.
+I'm a high school student interested in computational linguistics and programming language theory.
 <a href="https://tylerwolf35.github.io/" target="_blank">
   
   twolf.io
