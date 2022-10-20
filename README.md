@@ -5,5 +5,5 @@
 I'm a high school student interested in computational linguistics and programming languages.
 <a href="https://tylerwolf35.github.io/" target="_blank">
   
-  twolf.io
+[twolf.io](twolf.io)
 </a>
