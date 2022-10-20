@@ -4,5 +4,5 @@
 ### Hi there 👋
 I'm a high school student interested in computational linguistics and programming languages.
   
-[twolf.io](twolf.io)
+[twolf.io](https://twolf.io)
 </a>
